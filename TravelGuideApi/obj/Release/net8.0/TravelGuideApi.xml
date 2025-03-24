@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TravelGuideApi</name>
+    </assembly>
+    <members>
+        <member name="T:TravelGuideApi.Migrations.InitialCreate">
+            <summary>
+            Initial database migration
+            </summary>
+        </member>
+        <member name="M:TravelGuideApi.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:TravelGuideApi.Migrations.AddIsRevokedToRefreshToken">
+            <inheritdoc />
+        </member>
+        <member name="M:TravelGuideApi.Migrations.AddIsRevokedToRefreshToken.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TravelGuideApi.Migrations.AddIsRevokedToRefreshToken.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TravelGuideApi.Migrations.AddIsRevokedToRefreshToken.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
