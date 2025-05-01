@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelGuideApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7057b269887a8228fa57165ca11381540a58ea40")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelGuideApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelGuideApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
